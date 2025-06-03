@@ -1,0 +1,8 @@
+
+{
+    "entropy": 7.2,
+    "api_calls": 15,
+    "strings": "CreateFile,WriteFile",
+    "packer_flag": 1,
+    "section_count": 5
+}

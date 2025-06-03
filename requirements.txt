@@ -1,0 +1,8 @@
+torch
+transformers
+flask
+requests
+qiskit
+kubernetes
+smartpy
+cryptography
